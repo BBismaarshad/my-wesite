@@ -175,7 +175,7 @@ export default function SkillsSection() {
                     <h4 className="text-xl font-bold text-amber-50 mb-1">
                       {edu.degree}
                     </h4>
-                    <p className=" mb-2">{edu.institution}</p>
+                    <p className=" text-amber-50 mb-2">{edu.institution}</p>
                     <div className="flex justify-between items-center text-sm">
                       <span className="text-gray-400">{edu.year}</span>
                       <span className="px-3 py-1 bg-gray-700 text-amber-200 rounded-full text-xs font-medium">

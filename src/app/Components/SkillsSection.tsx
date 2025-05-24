@@ -72,7 +72,7 @@ export default function SkillsSection() {
               show ? "opacity-100 translate-y-0" : "opacity-0 translate-y-6"
             }`}
           >
-            The skills, qualifications, and knowledge I've acquired on my
+            The skills, qualifications, and knowledge I&#39;ve acquired on my
             journey
           </p>
         </div>

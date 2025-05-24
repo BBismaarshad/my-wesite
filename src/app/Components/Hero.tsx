@@ -9,7 +9,7 @@ const Hero = () => {
     <div>
       <VerticalLine />
       <section id="hero">
-        <div className="relative flex flex-col justify-center py-8 sm:min-h-screen sm:py-0">
+        <div className="relative bg-[#070F16]  flex flex-col justify-center py-8 sm:min-h-screen sm:py-0">
           <div className="flex flex-col items-center px-4 text-center max-w-2xl mx-auto">
             {/* Name and Title */}
             <h1 className="text-amber-50 text-5xl md:text-7xl font-light mb-4">

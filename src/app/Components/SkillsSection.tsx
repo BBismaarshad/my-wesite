@@ -112,7 +112,7 @@ export default function SkillsSection() {
               show ? "opacity-100 translate-x-0" : "opacity-0 -translate-x-6"
             }`}
           >
-            <h3 className="text-3xl  mb-8 text-amber font-bold text-center lg:text-left">
+            <h3 className="text-3xl  mb-8 text-amber-50 font-bold text-center lg:text-left">
               My Qualifications
             </h3>
             <ul className="space-y-4">

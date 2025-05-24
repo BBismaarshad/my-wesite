@@ -68,7 +68,7 @@ export default function SkillsSection() {
             My <span className="text-white">SKills</span>
           </h2>
           <p
-            className={`border-amber-50/80 font-light py-10 max-w-2xl  text-amber-50 mx-auto text-lg transition-all duration-500 delay-100 ${
+            className={`border-amber-50/80  text-amber-50 font-light py-10 max-w-2xl mx-auto text-lg transition-all duration-500 delay-100 ${
               show ? "opacity-100 translate-y-0" : "opacity-0 translate-y-6"
             }`}
           >

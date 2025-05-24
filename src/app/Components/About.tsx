@@ -28,7 +28,7 @@ const About = () => {
 
           <p className="my-8 text-amber-50 font-light text-lg leading-relaxed">
             A passionate frontend developer from Pakistan. <br />
-            🌱 I'm currently learning Python!
+            🌱 I&#39;m currently learning Python!
           </p>
 
           <div className="flex items-center gap-6 mb-8">
@@ -75,7 +75,7 @@ const About = () => {
           {" "}
           {/* Added md:pt-16 to match the left section's top padding */}
           <p className="text-gray-300 text-lg leading-relaxed">
-            I'm a dedicated and enthusiastic web developer with a strong passion
+            I&#39;m a dedicated and enthusiastic web developer with a strong passion
             for crafting responsive, user-friendly websites. My expertise lies
             in HTML, CSS, JavaScript, Typescript and modern frameworks like
             React and Next.js, allowing me to build sleek, high-performance, and
@@ -89,11 +89,11 @@ const About = () => {
           </p>
           <p className="text-gray-300 text-lg leading-relaxed mt-6 md:mt-10">
             I thrive on solving complex challenges through clean and efficient
-            code, and I'm always eager to explore emerging technologies and
+            code, and I&#39;m always eager to explore emerging technologies and
             collaborate on innovative, impactful projects.
           </p>
           <p className="text-gray-300 text-lg leading-relaxed mt-6 md:mt-10">
-            Whether it's creating seamless user experiences, building full-stack
+            Whether it&#39;s creating seamless user experiences, building full-stack
             applications with Next.js, or optimizing frontend performance, I aim
             to deliver solutions that truly make a difference.
           </p>

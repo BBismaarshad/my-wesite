@@ -172,10 +172,10 @@ export default function SkillsSection() {
                   <div className="absolute left-0 top-1 w-4 h-4 bg-amber-200 rounded-full border-4 border-gray-800 z-10"></div>
 
                   <div className="bg-gray-800   p-6 rounded-xl border border-gray-700 hover:border-amber-200 transition-all duration-300">
-                    <h4 className="text-xl font-bold text-amber mb-1">
+                    <h4 className="text-xl font-bold text-amber-50 mb-1">
                       {edu.degree}
                     </h4>
-                    <p className="text-amber-50 mb-2">{edu.institution}</p>
+                    <p className=" mb-2">{edu.institution}</p>
                     <div className="flex justify-between items-center text-sm">
                       <span className="text-gray-400">{edu.year}</span>
                       <span className="px-3 py-1 bg-gray-700 text-amber-200 rounded-full text-xs font-medium">

@@ -16,10 +16,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "portfolio-Bisma Arshad",
-  description: "I'm a passionate web developer specializing in building responsive, user-friendly websites using modern technologies like Next.js, Tailwind CSS, and TypeScript. Explore my projects, skills, and design approach.
-
-",
+  title: "portfolio Bisma Arshad",
+  description: "my portfolio",
 };
 
 export default function RootLayout({

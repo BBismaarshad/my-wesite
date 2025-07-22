@@ -17,7 +17,7 @@ const projects: Project[] = [
     title: "Portfolio Website",
     description:
       "A clean and modern Portfolio Website Template built with Next.js and Tailwind CSS. Perfect for developers, designers, and freelancers to showcase their skills, projects, and blog posts. Fully responsive design, easy to customize, and ready for deployment on platforms like Vercel.",
-    imageUrl: "/projects/image.png",
+    imageUrl: "/projects/portfolio.png",
     githubUrl: "https://github.com/BBismaarshad/Next.js-template-website.git",
     liveDemoUrl: "https://next-js-template-website.vercel.app/",
     tags: [" Portfolio", "Next.js", "Typescript", "Tailwind CSS"],
